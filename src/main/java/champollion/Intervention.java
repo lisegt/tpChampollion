@@ -61,7 +61,7 @@ public class Intervention {
         this.type = type;
     }
 
-    private UE getMatiere() {
+    public UE getMatiere() {
         return matiere;
     }
 
